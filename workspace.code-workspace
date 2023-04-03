@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "workspace",
+			"path": ".."
+		},
+		{
+			"name": "TFTVietNam",
+			"path": "../../../TFTVietNam"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "workspace"
+	}
+}
