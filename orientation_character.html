@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta content="" name="description" />
     <meta content="" name="keywords" />
-    <title>Multiple Choice</title>
+    <title>Kết quả xu hướng</title>
     <link href="assets/img/favicon.png" rel="icon" />
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon" />
 
@@ -35,6 +35,7 @@
 
     <!-- Template Main CSS File -->
     <link href="assets/css/style.css" rel="stylesheet" />
+    <link href="assets/css/style_result.css" rel="stylesheet" />
   </head>
   <body>
     <header id="header">
@@ -85,8 +86,7 @@
                 <li><a href="#">Võ Thị Ngọc Giàu</a></li>
                 <li><a href="#">Trần Minh Hoàng</a></li>
                 <li>
-                  <a href="#">Huỳnh Thị Như Quỳnh
-                  </a>
+                  <a href="#">Huỳnh Thị Như Quỳnh </a>
                 </li>
               </ul>
             </li>
@@ -96,7 +96,7 @@
               >
             </li>
             <li>
-              <a class="getstarted chuto" href="./">Trac Nghiem Nhan Cach</a>
+              <a class="getstarted chuto" href="./">Trắc Nghiệm Nhân Cách</a>
             </li>
           </ul>
           <i class="bi bi-list mobile-nav-toggle"></i>
@@ -104,78 +104,45 @@
         <!-- .navbar -->
       </div>
     </header>
-    <!-- End Header -->
-    <main>
+    <div
+      id="post-852"
+      class="single-view post-852 wpt_test type-wpt_test status-publish hentry post type-post container border border-success"
+      style="margin-bottom: 30px"
+    >
+      <header class="entry-header cf">
+        <h1
+          class="entry-title text-center"
+          style="margin-bottom: 40px; margin-top: 20px"
+        >
+          <a class="text-danger" href="#">Kết quả dựa trên đánh giá của bạn</a>
+        </h1>
+      </header>
+      <div class="entry-byline cf"></div>
 
-        <div class="container">
-            <h1 class="text text-success text-center"> Bài Trắc Nghiệm Nhân Cách</h1>
-            <p class="text text-danger text-center">Bạn hãy đọc các câu sau đây và tick vào ô lựa chọn nếu bạn Đồng ý và không chọn nếu bạn Không đồng ý. </p>
-            <div class="question_container d-flex form-control justify-content-between ">
-                <p class="question_info text text-danger text-left p-2 m-0" >
-                    Câu hỏi
-                </p>
-                <div class="d-flex justify-content-around">
-                    <p>Lựa chọn</p>
-                </div>
-            </div>`
-            <div class="question-wrapper" id="question-wrapper">
-
-            </div>
-            <div class="text-center" >
-              <a class="btn btn-danger m-4" onclick="handleSubmit()" href="./result_mtchoice.html"  >Submit</a>
-            </div>
-        </div>
-    </main>
-    <!-- ======= Footer ======= -->
-  <footer id="footer">
-
-    <div class="footer-top">
-
-      <div class="container">
-
-        <div class="row  justify-content-center">
-          <div class="col-lg-6">
-            <h3>BELD</h3>
-            <p>Breakthrough every limit destination !!!</p>
+      <div class="entry-content cf">
+        <div class="wpt_test get_results">
+          <div class="results">
+            <h3
+              class="result result-id-97 result-slug-result-choleric result-index-0 title"
+              id="result_mtc"
+            ></h3>
+            <div
+              class="result result-id-97 result-slug-result-choleric result-index-0 description"
+              id="resutl_mtc_content"
+            ></div>
+            <div
+              class="result result-id-97 result-slug-result-choleric result-index-0 description"
+              id="result_mtc_stable"
+            ></div>
+            <hr />
+          </div>
+          <div class="row d-flex" id="render_result">
           </div>
         </div>
-
-        <div class="row footer-newsletter justify-content-center">
-          <div class="col-lg-6">
-            <form action="" method="post">
-              <input class="notborder" type="email" name="email" placeholder="Enter your Email"><input type="submit" value="Subscribe">
-            </form>
-          </div>
-        </div>
-
-        <div class="social-links">
-          <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-          <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-          <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-          <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-          <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-        </div>
-
       </div>
+
+      <footer class="entry-footer cf"></footer>
     </div>
-
-    <div class="container footer-bottom clearfix">
-      <div class="copyright">
-        &copy; I take the template from BootstrapMade, not my design <strong><span>(Gin)</span></strong>
-      </div>
-      <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/bocor-bootstrap-template-nice-animation/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-      </div>
-    </div>
-  </footer><!-- End Footer -->
-  <script src="./question.js"></script>
-
-    <script src="./handleMultichoice.js" >
-
-    </script>
   </body>
+  <script src="./result_orientation.js"></script>
 </html>

@@ -67,6 +67,7 @@ const renderResult = () => {
       countCharacter = 3;
     }
   }
+  localStorage.setItem("count_character", countCharacter);
 
   document.getElementById('result_mtc').innerHTML = listCharacter[countCharacter];
   document.getElementById('resutl_mtc_content').innerHTML = listContentCharacter[countCharacter]
