@@ -42,6 +42,12 @@ const handleSubmit = () => {
       introvert_answer++;
       extrovert_answer++;
     }
+    if(introvert_answer > 24) {
+      introvert_answer = 24;
+    }
+    if(extrovert_answer > 24) {
+      extrovert_answer = 24;
+    }
     localStorage.setItem("introvert_answer", introvert_answer);
     localStorage.setItem("extrovert_answer", extrovert_answer);
     localStorage.setItem("flexible_answer", flexible_answer);
