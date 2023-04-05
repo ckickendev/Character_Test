@@ -4,7 +4,7 @@ const result_orientation = [
   <div class="card-img d-flex justify-content-center">
     <img class="anhnayngu" src="assets/img/tinhcach/huongngoai.jpg.webp" alt="...">
   </div>
-  <div class="card-body">
+  <div class="card-body" style="text-align: justify;">
     <h5 class="card-title text-center"><a href="" class="text-danger">Người hướng ngoại </a></h5>
     <p class="card-text">Người hướng ngoại có xu hướng thu thập rất nhiều thông tin, tài liệu từ nhiều nguồn khác nhau và cố gắng tìm kiếm sự trợ giúp từ những người xung quanh.</p>
     </p class="card-text"> Các cá nhân có tính cách hướng ngoại thường có những đặc trưng như sôi nổi, năng động và tự tin, và điều này cũng phản ánh vào cách họ tìm kiếm thông tin. </p>
@@ -18,7 +18,7 @@ const result_orientation = [
   <div class="card-img d-flex justify-content-center">
     <img class="anhnayngu" src="assets/img/tinhcach/huongnoi.png" alt="...">
   </div>
-  <div class="card-body">
+  <div class="card-body" style="text-align: justify;">
     <h5 class="card-title text-center"><a href="" class="text-danger">Người hướng nội </a></h5>
     <p class="card-text">Người hướng nội có yêu cầu cao về cơ sở lý luận của thông tin, kiên trì và điềm tĩnh trong hoạt động tìm kiếm thông tin</p>
     <p class="card-text"></p>Họ sử dụng kiến thức của mình để xác định những nguồn thông tin chính xác và đáng tin cậy. Khi họ đưa ra quyết định dựa trên thông tin mà họ đã thu thập được sau khi đã cân nhắc kỹ lưỡng và xem xét từ các khía cạnh khác nhau. Điều này tạo ra sự khác biệt trong việc tiếp cận thông tin giữa người hướng nội và người hướng ngoại. Trong khi người hướng ngoại thường tìm kiếm thông tin từ nguồn bên ngoài và thường đưa ra quyết định nhanh chóng, người hướng nội lại tập trung vào việc đánh giá các thông tin và đưa ra quyết định dựa trên sự phân tích kỹ lưỡng. Vì vậy, người hướng nội thường được coi là có sự độc lập trong việc tìm kiếm thông tin, họ thường có khả năng tập trung và kiên trì trong công việc của mình, và có khả năng tìm kiếm thông tin một cách chính xác và hiệu quả.</p>
@@ -31,7 +31,7 @@ const result_orientation = [
   <div class="card-img d-flex justify-content-center">
     <img class="anhnayngu" src="assets/img/tinhcach/khongondinh.png" alt="...">
   </div>
-  <div class="card-body">
+  <div class="card-body" style="text-align: justify;">
     <h5 class="card-title text-center"><a href="" class="text-danger">Người không ổn định </a></h5>
     <p class="card-text">Người không ổn định khó có sự hài lòng với thông tin, thiếu kiên nhẫn và cảm thấy áp lực về mặt thời gian khi tìm kiếm thông tin. </p>
     <p class="card-text">Những người có tính cách không ổn định thường cảm thấy thiếu thời gian để tìm kiếm thông tin. Tức là, tính cách này thể hiện sự thiếu kiên nhẫn trong việc tìm kiếm thông tin cho đến khi họ thực sự cần nó. Lúc đó, họ nhận ra rằng họ không có nhiều thời gian để tìm kiếm thông tin. Vì vậy, người có tính cách này khó có thể tìm, chọn lọc và đánh giá thông tin một cách tốt nhất. Tuy nhiên, sự không hài lòng với thông tin mà họ tìm được có ý nghĩa quan trọng đối với việc nghiên cứu và cải thiện hành vi tìm kiếm thông tin của người có tính cách không ổn định. Trên cơ sở này, thư viện đại học có thể thiết kế hệ thống tìm kiếm thông tin hiệu quả hơn để giúp những học sinh, sinh viên có tính cách này tìm được thông tin phù hợp trong thời gian hạn chế.</p>
@@ -44,7 +44,7 @@ const result_orientation = [
   <div class="card-img d-flex justify-content-center">
     <img class="anhnayngu" src="assets/img/tinhcach/ondinh.png" alt="...">
   </div>
-  <div class="card-body">
+  <div class="card-body" style="text-align: justify;">
     <h5 class="card-title text-center"><a href="" class="text-danger">Người ổn định</a></h5>
     <p class="card-text">Người ổn định sẽ thật sự nỗ lực tìm kiếm được thông tin mà mình cần, sẵn sàng dành thời gian, tiền bạc, công sức để có được thông tin thích hợp</p>
     <p class="card-text"> 
