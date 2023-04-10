@@ -9,7 +9,7 @@ const question = [
   "Bạn có hay nói và hành động một cách bột phát, vội vàng không kịp suy nghĩ không? ",
   "Có khi nào bạn thấy mình là người bất hạnh một cách vô nguyên cớ không? ",
   "Bạn có cho mình là người không hề lúng túng, không phải mất công tìm kiếm vẫn luôn có sẵn lời giải đáp khi phải đánh giá, nhận xét một vấn đề gì đó và sẵn sàng làm tất cả để tranh luận tới cùng không? ",
-  "Bạn có thấy rụt rè, e thẹn khi muốn bắt chuyện với một người khác giới dễn mến nhưng chưa quen biết không? ",
+  "Bạn có thấy rụt rè, e thẹn khi muốn bắt chuyện với một người khác giới dễ mến nhưng chưa quen biết không? ",
   "Đôi lúc bạn cũng nổi nóng không kiềm chế được phải không?",
   "Bạn có hay hành động một cách nông nổi, bồng bột không",
   "Bạn có hay ân hận về những lời bạn đã nói, về những việc bạn đã làm mà lẽ ra bạn không nên nói, nên làm như vậy không?  ",

@@ -22,6 +22,7 @@ const result_orientation = [
     <h5 class="card-title text-center"><a href="" class="text-danger">Người hướng nội </a></h5>
     <p class="card-text">Người hướng nội có yêu cầu cao về cơ sở lý luận của thông tin, kiên trì và điềm tĩnh trong hoạt động tìm kiếm thông tin</p>
     <p class="card-text"></p>Họ sử dụng kiến thức của mình để xác định những nguồn thông tin chính xác và đáng tin cậy. Khi họ đưa ra quyết định dựa trên thông tin mà họ đã thu thập được sau khi đã cân nhắc kỹ lưỡng và xem xét từ các khía cạnh khác nhau. Điều này tạo ra sự khác biệt trong việc tiếp cận thông tin giữa người hướng nội và người hướng ngoại. Trong khi người hướng ngoại thường tìm kiếm thông tin từ nguồn bên ngoài và thường đưa ra quyết định nhanh chóng, người hướng nội lại tập trung vào việc đánh giá các thông tin và đưa ra quyết định dựa trên sự phân tích kỹ lưỡng. Vì vậy, người hướng nội thường được coi là có sự độc lập trong việc tìm kiếm thông tin, họ thường có khả năng tập trung và kiên trì trong công việc của mình, và có khả năng tìm kiếm thông tin một cách chính xác và hiệu quả.</p>
+    <p class="card-text"> Thông thường, những người có tính cách này dành nhiều thời gian và công sức để tìm kiếm thông tin, thường thích tìm tòi những tài liệu liên quan ở phạm vi rộng hơn từ kết quả tìm kiếm. Hơn nữa, khi mức độ quan tâm đến thông tin của người hướng nội càng cao thì nhu cầu tin càng có khuynh hướng trở nên phức tạp hơn.</p>
   </div>
 </div>
 
